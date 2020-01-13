@@ -71,7 +71,7 @@ export default {
       return 'Introduction to the Bleda blog starter for Gridsome.'
     },
     ogImageUrl () {
-      return `${this.config.siteUrl}/images/bleda-card.png`
+      return `${this.config.siteUrl}/images/hero-image-umali-us-1.png`
     }
   },
 }
