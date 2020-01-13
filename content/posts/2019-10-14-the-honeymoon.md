@@ -26,7 +26,20 @@ Unfortunately, the best we could do was get this close to Papa Francis. It was s
 
 ![Picture of many trying to greet Pope Francis](/images/posts/papa_francis.jpg)
 ## Siena, Tuscany
+![Shot of Tuscany](/images/posts/tuscany.jpg)
+
+One of our favorite stops was during a Wine Tour. We stopped in San Gimignano (home of the best Gelato in the world)
+
+![San Gimignano](/images/posts/san_gimignano.jpg)
+
+![Il Duomo di Siena](/images/posts/duomo_siena.jpg)
+
+![Siena](/images/posts/crypt_siena.jpg)
+
 ## Florence
+
+![Shot of Florence, Italy from one of the highest points](/images/posts/florence.jpg)
+
 ## Positano
 ![On a Boat Heading Towards Positano](/images/posts/honeymoon_cover.jpg)
 
