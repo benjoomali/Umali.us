@@ -11,22 +11,27 @@
 
         </div>
       </header>
-      <div class="max-w-xl md:max-w-3xl xl:max-w-4xl mx-auto text-center px-6 py-4 md:py-12 border-b border-gray-300">
+      <div class="max-w-xl md:max-w-3xl xl:max-w-4xl mx-auto text-center px-6 py-4 md:py-12">
         <h2 class="text-gray-800 text-lg sm:text-3xl font-sans font-bold text-center">Pictures from the Wedding, Honeymoon and More!</h2>
         <h2 class="text-gray-700 text-md sm:text-2xl font-sans text-center">Thank you always for your support and love.</h2>
         </div>
         <section>
             <article>
-            <div class="mx-auto max-w-3xl bg-gray-100 px-6">
-              <div class="py-8 sm:py-20 border-b border-gray-300">
+            <div class="mx-auto max-w-3xl bg-indigo-100 px-6">
+              <div class="py-8 sm:py-10 border-b border-gray-300">
                 <header class="text-center mb-8">
                   <div class="text-gray-700 text-xs mb-2 uppercase">12 October, 2019</div>
                   <h2 class="text-3xl sm:text-4xl leading-tight font-sans mb-1 sm:mb-2">
                     <span class="text-black font-bold"><a target="_blank" href="https://three16photography.client-gallery.com/gallery/umali-wedding-or-october-12th-2019">The Wedding</a></span>
                   </h2>
                 </header>
-                <p class="leading-normal text-gray-700 text-lg px-2 sm:px-4 md:px-10"><strong>Three16 Photography</strong> did a fantastic job shooting our wedding! If you'd like to see some of the pictures, you can visit their website. Video to come soon.</p>
-                <p class="leading-normal text-gray-700 text-lg px-2 py-2 sm:px-4 md:px-10"><a class="underline font-bold" target="_blank" href="https://three16photography.client-gallery.com/gallery/umali-wedding-or-october-12th-2019">You can view the photos here.</a></p>
+                <p class="leading-normal text-gray-700 text-lg px-2 sm:px-4 md:px-10"><strong>Three16 Photography</strong> did a fantastic job shooting our wedding! If you'd like to see some of the pictures, you can visit their website.</p>
+                <p class="leading-normal font-bold text-gray-800 text-lg md:text-center px-2 py-2 sm:px-4 md:px-10 mb-5"><a class="underline font-bold" target="_blank" href="https://three16photography.client-gallery.com/gallery/umali-wedding-or-october-12th-2019">You can view the photos here.</a></p>
+                <div class="mx-auto flex items-center justify-center mb-3"> 
+                  <iframe src="https://player.vimeo.com/video/386891861" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
+
+                  </div>
+                  <p class="self-center text-center tracking-tight font-semibold text-gray-800"><a href="https://vimeo.com/386891861">Ben + Danielle | Wedding Highlight Film</a> from <a href="https://vimeo.com/three16photography">Jerrick O&#039;Connor</a>.</p>
               </div>
             </div>
           </article>
@@ -76,7 +81,7 @@ export default {
       return config
     },
     ogImageUrl () {
-      return `${this.config.siteUrl}/images/bleda-card.png`
+      return `${this.config.siteUrl}/hero-image-umali-us-1.jpg`
     }
   },
 }
