@@ -13,6 +13,8 @@ fullscreen: true
 
 We had a fantastic time on our two week honeymoon to Italy. Please enjoy some of the pictures from the trip below. Thank you all for your support and and your love!
 
+[To view all pictures, please click here to see our Google Photos Album.](https://photos.app.goo.gl/5X2Zr6Adt1W6AbyaA) 
+
 ## Rome, Italy
 After the wedding, we took off to the airport to fly to Rome, Italy. 
 ## Newly Wed Blessing at The Vatican 

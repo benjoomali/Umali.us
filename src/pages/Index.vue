@@ -26,7 +26,7 @@
                   </h2>
                 </header>
                 <p class="leading-normal text-gray-700 text-lg px-2 sm:px-4 md:px-10"><strong>Three16 Photography</strong> did a fantastic job shooting our wedding! If you'd like to see some of the pictures, you can visit their website.</p>
-                <p class="leading-normal font-bold text-gray-800 text-lg md:text-center px-2 py-2 sm:px-4 md:px-10 mb-5"><a class="underline font-bold" target="_blank" href="https://three16photography.client-gallery.com/gallery/umali-wedding-or-october-12th-2019">You can view the photos here.</a></p>
+                <p class="leading-normal font-bold text-gray-800 text-lg md:text-center px-2 py-2 sm:px-4 md:px-10 lg:mb-5"><a class="underline font-bold" target="_blank" href="https://three16photography.client-gallery.com/gallery/umali-wedding-or-october-12th-2019">You can view the photos here.</a></p>
                 <div class="mx-auto flex items-center justify-center mb-3"> 
                   <iframe src="https://player.vimeo.com/video/386891861" width="640" height="360" frameborder="0" allow="autoplay; fullscreen" allowfullscreen></iframe>
 
